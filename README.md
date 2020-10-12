@@ -1,6 +1,6 @@
-Forecasting-Tool-with-Facebook-Prophet \
+Forecasting-Tool-with-Facebook-Prophet
 
-## Guidances: \
+## Guidances:
 
 1. Put all files into one directory.
 
